@@ -78,7 +78,7 @@ clearly isn't.
   </tr>
 </table>
 
-![Hit rate vs cache size](images/hit_rate_vs_cache_size.png)
+![Hit rate vs cache size](hit_rate_vs_cache_size.png)
 *Figure 1. Hit rate vs. cache size for LRU, LFU, and ML eviction on the same Zipfian trace.*
 > LRU trails both other policies at every size — recency alone is a weak
 > signal on a Zipf-distributed trace. LFU and ML are nearly tied
